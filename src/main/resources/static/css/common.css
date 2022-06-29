@@ -1,0 +1,20 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+.submitLink {
+  background-color: transparent;
+  text-decoration: underline;
+  border: none;
+  color: blue;
+  cursor: pointer;
+}
+.submitLink:focus {
+  outline: none;
+}
